@@ -1,0 +1,5 @@
+DISPLAY_NAME=BOT DE VENDAS V2
+DESCRIPTION=Square e Top.
+MAIN=index.js
+MEMORY=100
+VERSION=recommended

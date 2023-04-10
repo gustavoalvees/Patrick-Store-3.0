@@ -1,0 +1,47 @@
+{
+    "oi": {
+        "idproduto": "oi",
+        "nome": "cleiton",
+        "desc": "nd\\",
+        "preco": "10",
+        "conta": [
+            "kkkkkkkkkkkkkkkkk"
+        ]
+    },
+    "on": {
+        "idproduto": "on",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "conta": []
+    },
+    "bz": {
+        "idproduto": "bz",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "2.00",
+        "conta": [
+            "kkkkkkkkkkkkkkkkk"
+        ]
+    },
+    "teste": {
+        "idproduto": "teste",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "1",
+        "conta": [
+            "kkkkkkkkkkkkkkkkk",
+            "kkkkkkkkkkkkkkkkk"
+        ]
+    },
+    "test": {
+        "idproduto": "test",
+        "nome": "Sem nome ainda...",
+        "desc": "scu",
+        "preco": "10",
+        "conta": [
+            "1",
+            "2"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "privadex": {
+        "idcupom": "privadex",
+        "quantidade": "1",
+        "minimo": "0",
+        "desconto": "50"
+    },
+    "teste": {
+        "idcupom": "teste",
+        "quantidade": "1",
+        "minimo": "0.50",
+        "desconto": "50"
+    },
+    "teste2": {
+        "idcupom": "teste2",
+        "quantidade": "3",
+        "minimo": "1.00",
+        "desconto": "50"
+    }
+}
